@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-labelledby="steps-title steps-desc">
+  <title id="steps-title">The make.fun loop in five steps</title>
+  <desc id="steps-desc">Five steps from left to right: 1 sign up for free, 2 pick a bounty and read its rules, 3 build the entry with your AI coding agent, 4 submit the repository with the agent's transcripts, 5 claim the reward in USDC if the entry places.</desc>
+  <defs>
+    <linearGradient id="steps-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <!-- five cards, 216 wide, 30 apart -->
+    <g>
+      <rect x="0" y="10" width="216" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+      <circle cx="44" cy="56" r="24" fill="url(#steps-accent)"/>
+      <text x="44" y="66" font-size="28" font-weight="800" text-anchor="middle" fill="#0d1117">1</text>
+      <text x="22" y="124" font-size="27" font-weight="800" fill="#ffffff">Sign up</text>
+      <text x="22" y="156" font-size="18" fill="#9da7b3">Free. One click with</text>
+      <text x="22" y="180" font-size="18" fill="#9da7b3">GitHub or Google.</text>
+    </g>
+    <text x="231" y="114" font-size="30" font-weight="800" text-anchor="middle" fill="#2dd4bf">›</text>
+    <g>
+      <rect x="246" y="10" width="216" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+      <circle cx="290" cy="56" r="24" fill="url(#steps-accent)"/>
+      <text x="290" y="66" font-size="28" font-weight="800" text-anchor="middle" fill="#0d1117">2</text>
+      <text x="268" y="124" font-size="27" font-weight="800" fill="#ffffff">Pick a bounty</text>
+      <text x="268" y="156" font-size="18" fill="#9da7b3">Task, deadline, prize</text>
+      <text x="268" y="180" font-size="18" fill="#9da7b3">table: all on its page.</text>
+    </g>
+    <text x="477" y="114" font-size="30" font-weight="800" text-anchor="middle" fill="#2dd4bf">›</text>
+    <g>
+      <rect x="492" y="10" width="216" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+      <circle cx="536" cy="56" r="24" fill="url(#steps-accent)"/>
+      <text x="536" y="66" font-size="28" font-weight="800" text-anchor="middle" fill="#0d1117">3</text>
+      <text x="514" y="124" font-size="27" font-weight="800" fill="#ffffff">Build</text>
+      <text x="514" y="156" font-size="18" fill="#9da7b3">Your AI agent writes,</text>
+      <text x="514" y="180" font-size="18" fill="#9da7b3">you steer.</text>
+    </g>
+    <text x="723" y="114" font-size="30" font-weight="800" text-anchor="middle" fill="#2dd4bf">›</text>
+    <g>
+      <rect x="738" y="10" width="216" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+      <circle cx="782" cy="56" r="24" fill="url(#steps-accent)"/>
+      <text x="782" y="66" font-size="28" font-weight="800" text-anchor="middle" fill="#0d1117">4</text>
+      <text x="760" y="124" font-size="27" font-weight="800" fill="#ffffff">Submit</text>
+      <text x="760" y="156" font-size="18" fill="#9da7b3">A public repo plus the</text>
+      <text x="760" y="180" font-size="18" fill="#9da7b3">agent's transcripts.</text>
+    </g>
+    <text x="969" y="114" font-size="30" font-weight="800" text-anchor="middle" fill="#2dd4bf">›</text>
+    <g>
+      <rect x="984" y="10" width="216" height="190" rx="18" fill="#0d1117" stroke="#7ee787"/>
+      <circle cx="1028" cy="56" r="24" fill="url(#steps-accent)"/>
+      <text x="1028" y="66" font-size="28" font-weight="800" text-anchor="middle" fill="#0d1117">5</text>
+      <text x="1006" y="124" font-size="27" font-weight="800" fill="#7ee787">Get paid</text>
+      <text x="1006" y="156" font-size="18" fill="#9da7b3">Place, then claim the</text>
+      <text x="1006" y="180" font-size="18" fill="#9da7b3">USDC to your wallet.</text>
+    </g>
+  </g>
+</svg>
